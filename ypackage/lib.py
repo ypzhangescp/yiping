@@ -1,2 +1,2 @@
 def try_me():
-    return print('')
+    print('red')
